@@ -1,0 +1,2231 @@
+﻿{
+"needGroupFunction": false,
+"section_id":0,
+"lessonList": [
+  {
+    "lessonId": 0,
+    "rainBow": [
+      {
+        "id": "长横",
+        "videoList": [
+          "MCch1",
+          "MCch2",
+          "MCch3",
+          "MCch4",
+          "MCch5",
+          "MCch6"
+        ]
+      },
+      {
+        "id": "一",
+        "videoList": [
+          "MCyi1",
+          "MCyi2",
+          "MCyi3",
+          "MCyi4",
+          "MCyi5",
+          "MCyi6",
+          "MCyi7"
+        ]
+      },
+      {
+        "id": "二",
+        "videoList": [
+          "MCer1",
+          "MCer2",
+          "MCer3",
+          "MCer4",
+          "MCer5",
+          "MCer6",
+          "MCer7",
+          "MCer8"
+        ]
+      },
+      {
+        "id": "工",
+        "videoList": [
+          "MCgong1",
+          "MCgong2",
+          "MCgong3",
+          "MCgong4",
+          "MCgong5",
+          "MCgong6",
+          "MCgong7",
+          "MCgong8",
+          "MCgong9"
+        ]
+      },
+      {
+        "id": "三",
+        "videoList": [
+          "MCsan1",
+          "MCsan2",
+          "MCsan3",
+          "MCsan4",
+          "MCsan5",
+          "MCsan6",
+          "MCsan7",
+          "MCsan8"
+        ]
+      },
+      {
+        "id": "五",
+        "videoList": [
+          "MCwu1",
+          "MCwu2",
+          "MCwu3",
+          "MCwu4",
+          "MCwu5",
+          "MCwu6",
+          "MCwu7",
+          "MCwu8"
+        ]
+      },
+      {
+        "id": "旦",
+        "videoList": [
+          "MCdan1",
+          "MCdan2",
+          "MCdan3",
+          "MCdan4",
+          "MCdan5",
+          "MCdan6",
+          "MCdan7",
+          "MCdan8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "",
+		"mcIndex":2,
+		"hitPointCount":5,
+        "videoList": [
+          "MCno"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 1,
+    "rainBow": [
+      {
+        "id": "短横",
+        "videoList": [
+          "MCduan1",
+          "MCduan2",
+          "MCduan3",
+          "MCduan4",
+          "MCduan5",
+          "MCduan6",
+          "MCduan7"
+        ]
+      },
+      {
+        "id": "土",
+        "videoList": [
+          "MCtu1",
+          "MCtu2",
+          "MCtu3",
+          "MCtu4",
+          "MCtu5",
+          "MCtu6",
+          "MCtu7"
+        ]
+      },
+      {
+        "id": "士",
+        "videoList": [
+          "MCshi1",
+          "MCshi2",
+          "MCshi3",
+          "MCshi4",
+          "MCshi5",
+          "MCshi6",
+          "MCshi7"
+        ]          
+      },
+      {
+        "id": "王",
+        "videoList": [
+          "MCwang1",
+          "MCwang2",
+          "MCwang3",
+          "MCwang4",
+          "MCwang5",
+          "MCwang6",
+          "MCwang7",
+          "MCwang8"
+        ]
+      },
+      {
+        "id": "早",
+        "videoList": [
+          "MCzao1",
+          "MCzao2",
+          "MCzao3",
+          "MCzao4",
+          "MCzao5",
+          "MCzao6",
+          "MCzao7",
+          "MCzao8"
+        ]
+      },
+      {
+        "id": "古",
+        "videoList": [
+          "MCgu1",
+          "MCgu2",
+          "MCgu3",
+          "MCgu4",
+          "MCgu5",
+          "MCgu6",
+          "MCgu7",
+          "MCgu8"
+        ]
+      },
+      {
+        "id": "百",
+        "videoList": [
+          "MCbai1",
+          "MCbai2",
+          "MCbai3",
+          "MCbai4",
+          "MCbai5",
+          "MCbai6",
+          "MCbai7"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "a",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MCa1",
+          "MCa2",
+          "",
+          "MCa3",
+          "MCa4",
+          "MCa5",
+          "MCa6",
+          "MCa7",
+          "MCa8",
+          "MCa9",
+          "MCa10"
+        ]
+      },
+      {
+        "id": "o",
+		"mcIndex":2,
+		"hitPointCount":8,
+        "videoList": [
+          "MCo1",
+          "MCo2",
+          "",
+          "MCo3",
+          "MCo4",
+          "MCo5",
+          "MCo6",
+          "MCo7",
+          "MCo8",
+          "MCo9",
+          "MCo10"
+        ]
+      },
+      {
+        "id": "e",
+		"mcIndex":2,
+		"hitPointCount":10,
+        "videoList": [
+          "MCe1",
+          "MCe2",
+          "",
+          "MCe3",
+          "MCe4",
+          "MCe5",
+          "MCe6",
+          "MCe7",
+          "MCe8",
+          "MCe9",
+          "MCe10"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 2,
+    "rainBow": [
+      {
+        "id": "垂露竖",
+        "videoList": [
+          "MCcls1",
+          "MCcls2",
+          "MCcls3",
+          "MCcls4",
+          "MCcls5",
+          "MCcls6",
+          "MCcls7"
+        ]
+      },
+      {
+        "id": "川",
+        "videoList": [
+          "MCchuan1",
+          "MCchuan2",
+          "MCchuan3",
+          "MCchuan4",
+          "MCchuan5",
+          "MCchuan6",
+          "MCchuan7",
+          "MCchuan8"
+        ]
+      },
+      {
+        "id": "上",
+        "videoList": [
+          "MCshang1",
+          "MCshang2",
+          "MCshang3",
+          "MCshang4",
+          "MCshang5",
+          "MCshang6",
+          "MCshang7",
+          "MCshang8"
+        ]
+      },
+      {
+        "id": "下",
+        "videoList": [
+          "MCxia1",
+          "MCxia2",
+          "MCxia3",
+          "MCxia4",
+          "MCxia5",
+          "MCxia6",
+          "MCxia7",
+          "MCxia8"
+        ]
+      },
+      {
+        "id": "耳",
+        "videoList": [
+          "MCer1",
+          "MCer2",
+          "MCer3",
+          "MCer4",
+          "MCer5",
+          "MCer6",
+          "MCer7",
+          "MCer8",
+          "MCer9"
+        ]
+      },
+      {
+        "id": "正",
+        "videoList": [
+          "MCzheng1",
+          "MCzheng2",
+          "MCzheng3",
+          "MCzheng4",
+          "MCzheng5",
+          "MCzheng6",
+          "MCzheng7",
+          "MCzheng8",
+          "MCzheng9"
+        ]
+      },
+      {
+        "id": "非",
+        "videoList": [
+          "MCfei1",
+          "MCfei2",
+          "MCfei3",
+          "MCfei4",
+          "MCfei5",
+          "MCfei6",
+          "MCfei7",
+          "MCfei8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "i",
+		"mcIndex":2,
+		"hitPointCount":4,
+        "videoList": [
+          "MCi1",
+          "MCi2",
+          "",
+          "MCi3",
+          "MCi4",
+          "MCi5",
+          "MCi6",
+          "MCi7",
+          "MCi8",
+          "MCi9",
+          "MCi10"
+        ]
+      },
+      {
+        "id": "u",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MCu1",
+          "MCu2",
+          "",
+          "MCu3",
+          "MCu4",
+          "MCu5",
+          "MCu6",
+          "MCu7",
+          "MCu8",
+          "MCu9",
+          "MCu10"
+        ]
+      },
+      {
+        "id": "ü",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MCü1",
+          "MCü2",
+          "",
+          "MCü3",
+          "MCü4",
+          "MCü5",
+          "MCü6",
+          "MCü7",
+          "MCü8",
+          "MCü9",
+          "MCü10"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 3,
+    "rainBow": [
+      {
+        "id": "悬针竖",
+        "videoList": [
+          "MCxzs1",
+          "MCxzs2",
+          "MCxzs3",
+          "MCxzs4",
+          "MCxzs5",
+          "MCxzs6",
+          "MCxzs7"
+        ]
+      },
+      {
+        "id": "十",
+        "videoList": [
+          "MCshi1",
+          "MCshi2",
+          "MCshi3",
+          "MCshi4",
+          "MCshi5",
+          "MCshi6",
+          "MCshi7",
+          "MCshi8"
+        ]
+      },
+      {
+        "id": "斗",
+        "videoList": [
+          "MCdou1",
+          "MCdou2",
+          "MCdou3",
+          "MCdou4",
+          "MCdou5",
+          "MCdou6",
+          "MCdou7",
+          "MCdou8"
+        ]
+      },
+      {
+        "id": "干",
+        "videoList": [
+          "MCgan1",
+          "MCgan2",
+          "MCgan3",
+          "MCgan4",
+          "MCgan5",
+          "MCgan6",
+          "MCgan7",
+          "MCgan8"
+        ]
+      },
+      {
+        "id": "平",
+        "videoList": [
+          "MCping1",
+          "MCping2",
+          "MCping3",
+          "MCping4",
+          "MCping5",
+          "MCping6",
+          "MCping7",
+          "MCping8"
+        ]
+      },
+      {
+        "id": "丰",
+        "videoList": [
+          "MCfeng1",
+          "MCfeng2",
+          "MCfeng3",
+          "MCfeng4",
+          "MCfeng5",
+          "MCfeng6",
+          "MCfeng7",
+          "MCfeng8"
+        ]
+      },
+      {
+        "id": "中",
+        "videoList": [
+          "MCzhong1",
+          "MCzhong2",
+          "MCzhong3",
+          "MCzhong4",
+          "MCzhong5",
+          "MCzhong6",
+          "MCzhong7",
+          "MCzhong8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "b",
+		"mcIndex":2,
+		"hitPointCount":8,
+        "videoList": [
+          "MCb1",
+          "MCb2",
+          "",
+          "MCb3",
+          "MCb4",
+          "MCb5",
+          "MCb6",
+          "MCb7"
+        ]
+      },
+      {
+        "id": "p",
+		"mcIndex":2,
+		"hitPointCount":8,
+        "videoList": [
+          "MCp1",
+          "MCp2",
+          "",
+          "MCp3",
+          "MCp4",
+          "MCp5",
+          "MCp6",
+          "MCp7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 4,
+    "rainBow": [
+      {
+        "id": "短撇",
+        "videoList": [
+          "MCdp1",
+          "MCdp2",
+          "MCdp3",
+          "MCdp4",
+          "MCdp5"
+        ]
+      },
+      {
+        "id": "平撇",
+        "videoList": [
+          "MCpp1",
+          "MCpp2",
+          "MCpp3",
+          "MCpp4",
+          "MCpp5"
+        ]
+      },
+      {
+        "id": "生",
+        "videoList": [
+          "MCsheng1",
+          "MCsheng2",
+          "MCsheng3",
+          "MCsheng4",
+          "MCsheng5",
+          "MCsheng6",
+          "MCsheng7",
+          "MCsheng8"
+        ]
+      },
+      {
+        "id": "年",
+        "videoList": [
+          "MCnian1",
+          "MCnian2",
+          "MCnian3",
+          "MCnian4",
+          "MCnian5",
+          "MCnian6",
+          "MCnian7",
+          "MCnian8"
+        ]
+      },
+      {
+        "id": "千",
+        "videoList": [
+          "MCqian1",
+          "MCqian2",
+          "MCqian3",
+          "MCqian4",
+          "MCqian5",
+          "MCqian6",
+          "MCqian7"
+        ]
+      },
+      {
+        "id": "白",
+        "videoList": [
+          "MCbai1",
+          "MCbai2",
+          "MCbai3",
+          "MCbai4",
+          "MCbai5",
+          "MCbai6",
+          "MCbai7",
+          "MCbai8"
+        ]
+      },
+      {
+        "id": "舌",
+        "videoList": [
+          "MCse1",
+          "MCse2",
+          "MCse3",
+          "MCse4",
+          "MCse5",
+          "MCse6",
+          "MCse7",
+          "MCse8"
+        ]
+      },
+      {
+        "id": "看",
+        "videoList": [
+          "MCkan1",
+          "MCkan2",
+          "MCkan3",
+          "MCkan4",
+          "MCkan5",
+          "MCkan6",
+          "MCkan7",
+          "MCkan8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "m",
+		"mcIndex":2,
+		"hitPointCount":14,
+        "videoList": [
+          "MCm1",
+          "MCm2",
+          "",
+          "MCm3",
+          "MCm4",
+          "MCm5",
+          "MCm6",
+          "MCm7"
+        ]
+      },
+      {
+        "id": "f",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MCf1",
+          "MCf2",
+          "",
+          "MCf3",
+          "MCf4",
+          "MCf5",
+          "MCf6",
+          "MCf7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 5,
+    "rainBow": [
+      {
+        "id": "竖撇",
+        "videoList": [
+          "MCsp1",
+          "MCsp2",
+          "MCsp3",
+          "MCsp4",
+          "MCsp5"
+        ]
+      },
+      {
+        "id": "升",
+        "videoList": [
+          "MCshen1",
+          "MCshen2",
+          "MCshen3",
+          "MCshen4",
+          "MCshen5",
+          "MCshen6",
+          "MCshen7",
+          "MCshen8"
+        ]
+      },
+      {
+        "id": "开",
+        "videoList": [
+          "MCkai1",
+          "MCkai2",
+          "MCkai3",
+          "MCkai4",
+          "MCkai5",
+          "MCkai6",
+          "MCkai7",
+          "MCkai8"
+        ]
+      },
+      {
+        "id": "斤",
+        "videoList": [
+          "MCjin1",
+          "MCjin2",
+          "MCjin3",
+          "MCjin4",
+          "MCjin5",
+          "MCjin6",
+          "MCjin7",
+          "MCjin8"
+        ]
+      },
+      {
+        "id": "月",
+        "videoList": [
+          "MCyue1",
+          "MCyue2",
+          "MCyue3",
+          "MCyue4",
+          "MCyue5",
+          "MCyue6",
+          "MCyue7"
+        ]
+      },
+      {
+        "id": "片",
+        "videoList": [
+          "MCpian1",
+          "MCpian2",
+          "MCpian3",
+          "MCpian4",
+          "MCpian5",
+          "MCpian6",
+          "MCpian7",
+          "MCpian8"
+        ]
+      },
+      {
+        "id": "头",
+        "videoList": [
+          "MCtou1",
+          "MCtou2",
+          "MCtou3",
+          "MCtou4",
+          "MCtou5",
+          "MCtou6",
+          "MCtou7",
+          "MCtou8",
+          "MCtou9"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "d",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MCd1",
+          "MCd2",
+          "",
+          "MCd3",
+          "MCd4",
+          "MCd5",
+          "MCd6",
+          "MCd7",
+          "MCd8"
+        ]
+      },
+      {
+        "id": "t",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCt1",
+          "MCt2",
+          "",
+          "MCt3",
+          "MCt4",
+          "MCt5",
+          "MCt6",
+          "MCt7",
+          "MCt8"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 6,
+    "rainBow": [
+      {
+        "id": "斜撇",
+        "videoList": [
+          "MCxp1",
+          "MCxp2",
+          "MCxp3",
+          "MCxp4",
+          "MCxp5",
+          "MCxp6"
+        ]
+      },
+      {
+        "id": "人",
+        "videoList": [
+          "MCren1",
+          "MCren2",
+          "MCren3",
+          "MCren4",
+          "MCren5",
+          "MCren6",
+          "MCren7",
+          "MCren8"
+        ]
+      },
+      {
+        "id": "左",
+        "videoList": [
+          "MCzuo1",
+          "MCzuo2",
+          "MCzuo3",
+          "MCzuo4",
+          "MCzuo5",
+          "MCzuo6",
+          "MCzuo7",
+          "MCzuo8"
+        ]
+      },
+      {
+        "id": "在",
+        "videoList": [
+          "MCzai1",
+          "MCzai2",
+          "MCzai3",
+          "MCzai4",
+          "MCzai5",
+          "MCzai6",
+          "MCzai7",
+          "MCzai8"
+        ]
+      },
+      {
+        "id": "才",
+        "videoList": [
+          "MCcai1",
+          "MCcai2",
+          "MCcai3",
+          "MCcai4",
+          "MCcai5",
+          "MCcai6",
+          "MCcai7",
+          "MCcai8"
+        ]
+      },
+      {
+        "id": "八",
+        "videoList": [
+          "MCba1",
+          "MCba2",
+          "MCba3",
+          "MCba4",
+          "MCba5",
+          "MCba6",
+          "MCba7"
+        ]
+      },
+      {
+        "id": "个",
+        "videoList": [
+          "MCge1",
+          "MCge2",
+          "MCge3",
+          "MCge4",
+          "MCge5",
+          "MCge6",
+          "MCge7"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "n",
+		"mcIndex":2,
+		"hitPointCount":8,
+        "videoList": [
+          "MCn1",
+          "MCn2",
+          "",
+          "MCn3",
+          "MCn4",
+          "MCn5",
+          "MCn6",
+          "MCn7",
+          "MCn8"
+        ]
+      },
+      {
+        "id": "l",
+		"mcIndex":2,
+		"hitPointCount":4,
+        "videoList": [
+          "MCl1",
+          "MCl2",
+          "",
+          "MCl3",
+          "MCl4",
+          "MCl5",
+          "MCl6",
+          "MCl7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 7,
+    "rainBow": [
+      {
+        "id": "斜捺",
+        "videoList": [
+          "MCxn1",
+          "MCxn2",
+          "MCxn3",
+          "MCxn4",
+          "MCxn5"
+        ]
+      },
+      {
+        "id": "木",
+        "videoList": [
+          "MCmu1",
+          "MCmu2",
+          "MCmu3",
+          "MCmu4",
+          "MCmu5",
+          "MCmu6",
+          "MCmu7",
+          "MCmu8"
+        ]
+      },
+      {
+        "id": "全",
+        "videoList": [
+          "MCquan1",
+          "MCquan2",
+          "MCquan3",
+          "MCquan4",
+          "MCquan5",
+          "MCquan6",
+          "MCquan7",
+          "MCquan8"
+        ]
+      },
+      {
+        "id": "大",
+        "videoList": [
+          "MCda1",
+          "MCda2",
+          "MCda3",
+          "MCda4",
+          "MCda5",
+          "MCda6",
+          "MCda7"
+        ]
+      },
+      {
+        "id": "关",
+        "videoList": [
+          "MCguan1",
+          "MCguan2",
+          "MCguan3",
+          "MCguan4",
+          "MCguan5",
+          "MCguan6",
+          "MCguan7",
+          "MCguan8"
+        ]
+      },
+      {
+        "id": "尺",
+        "videoList": [
+          "MCchi1",
+          "MCchi2",
+          "MCchi3",
+          "MCchi4",
+          "MCchi5",
+          "MCchi6",
+          "MCchi7"
+        ]
+      },
+      {
+        "id": "处",
+        "videoList": [
+          "MCchu1",
+          "MCchu2",
+          "MCchu3",
+          "MCchu4",
+          "MCchu5",
+          "MCchu6",
+          "MCchu7",
+          "MCchu8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "g",
+		"mcIndex":2,
+		"hitPointCount":11,
+        "videoList": [
+          "MCg1",
+          "MCg2",
+          "",
+          "MCg3",
+          "MCg4",
+          "MCg5",
+          "MCg6",
+          "MCg7"
+        ]
+      },
+      {
+        "id": "k",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCk1",
+          "MCk2",
+          "",
+          "MCk3",
+          "MCk4",
+          "MCk5",
+          "MCk6",
+          "MCk7"
+        ]
+      },
+      {
+        "id": "h",
+		"mcIndex":2,
+		"hitPointCount":8,
+        "videoList": [
+          "MCh1",
+          "MCh2",
+          "",
+          "MCh3",
+          "MCh4",
+          "MCh5",
+          "MCh6",
+          "MCh7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+
+
+
+
+  {
+    "lessonId": 8,
+    "rainBow": [
+      {
+        "id": "平捺",
+        "videoList": [
+          "MCpn1",
+          "MCpn2",
+          "MCpn3",
+          "MCpn4",
+          "MCpn5",
+          "MCpn6"
+        ]
+      },
+      {
+        "id": "之",
+        "videoList": [
+          "MCzhi1",
+          "MCzhi2",
+          "MCzhi3",
+          "MCzhi4",
+          "MCzhi5",
+          "MCzhi6",
+          "MCzhi7",
+          "MCzhi8"
+        ]
+      },
+      {
+        "id": "走",
+        "videoList": [
+          "MCzou1",
+          "MCzou2",
+          "MCzou3",
+          "MCzou4",
+          "MCzou5",
+          "MCzou6",
+          "MCzou7",
+          "MCzou8"
+        ]
+      },
+      {
+        "id": "足",
+        "videoList": [
+          "MCzu1",
+          "MCzu2",
+          "MCzu3",
+          "MCzu4",
+          "MCzu5",
+          "MCzu6",
+          "MCzu7",
+          "MCzu8"
+        ]
+      },
+      {
+        "id": "是",
+        "videoList": [
+          "MCshi1",
+          "MCshi2",
+          "MCshi3",
+          "MCshi4",
+          "MCshi5",
+          "MCshi6",
+          "MCshi7",
+          "MCshi8"
+        ]
+      },
+      {
+        "id": "边",
+        "videoList": [
+          "MCbian1",
+          "MCbian2",
+          "MCbian3",
+          "MCbian4",
+          "MCbian5",
+          "MCbian6",
+          "MCbian7"
+        ]
+      },
+      {
+        "id": "过",
+        "videoList": [
+          "MCguo1",
+          "MCguo2",
+          "MCguo3",
+          "MCguo4",
+          "MCguo5",
+          "MCguo6",
+          "MCguo7",
+          "MCguo8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "j",
+		"mcIndex":2,
+		"hitPointCount":5,
+        "videoList": [
+          "MCj1",
+          "MCj2",
+          "",
+          "MCj3",
+          "MCj4",
+          "MCj5",
+          "MCj6",
+          "MCj7"
+        ]
+      },
+      {
+        "id": "q",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MCq1",
+          "MCq2",
+          "",
+          "MCq3",
+          "MCq4",
+          "MCq5",
+          "MCq6",
+          "MCq7"
+        ]
+      },
+      {
+        "id": "x",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCx1",
+          "MCx2",
+          "",
+          "MCx3",
+          "MCx4",
+          "MCx5",
+          "MCx6",
+          "MCx7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+
+
+
+
+  {
+    "lessonId": 9,
+    "rainBow": [
+      {
+        "id": "单独点",
+        "videoList": [
+          "MCddd1",
+          "MCddd2",
+          "MCddd3",
+          "MCddd4",
+          "MCddd5"
+        ]
+      },
+      {
+        "id": "文",
+        "videoList": [
+          "MCwen1",
+          "MCwen2",
+          "MCwen3",
+          "MCwen4",
+          "MCwen5",
+          "MCwen6",
+          "MCwen7",
+          "MCwen8"
+        ]
+      },
+      {
+        "id": "广",
+        "videoList": [
+          "MCguang1",
+          "MCguang2",
+          "MCguang3",
+          "MCguang4",
+          "MCguang5",
+          "MCguang6",
+          "MCguang7"
+        ]
+      },
+      {
+        "id": "方",
+        "videoList": [
+          "MCfang1",
+          "MCfang2",
+          "MCfang3",
+          "MCfang4",
+          "MCfang5",
+          "MCfang6",
+          "MCfang7",
+          "MCfang8"
+        ]
+      },
+      {
+        "id": "不",
+        "videoList": [
+          "MCbu1",
+          "MCbu2",
+          "MCbu3",
+          "MCbu4",
+          "MCbu5",
+          "MCbu6",
+          "MCbu7",
+          "MCbu8"
+        ]
+      },
+      {
+        "id": "贝",
+        "videoList": [
+          "MCbei1",
+          "MCbei2",
+          "MCbei3",
+          "MCbei4",
+          "MCbei5",
+          "MCbei6",
+          "MCbei7"
+        ]
+      },
+      {
+        "id": "卜",
+        "videoList": [
+          "MCbo1",
+          "MCbo2",
+          "MCbo3",
+          "MCbo4",
+          "MCbo5",
+          "MCbo6"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "zh",
+		"mcIndex":2,
+		"hitPointCount":15,
+        "videoList": [
+          "MCzh1",
+          "MCzh2",
+          "",
+          "MCzh3",
+          "MCzh4",
+          "MCzh5",
+          "MCzh6",
+          "MCzh7"
+        ]
+      },
+      {
+        "id": "ch",
+		"mcIndex":2,
+		"hitPointCount":14,
+        "videoList": [
+          "MCch1",
+          "MCch2",
+          "",
+          "MCch3",
+          "MCch4",
+          "MCch5",
+          "MCch6"
+        ]
+      },
+      {
+        "id": "sh",
+		"mcIndex":2,
+		"hitPointCount":14,
+        "videoList": [
+          "MCsh1",
+          "MCsh2",
+          "",
+          "MCsh3",
+          "MCsh4",
+          "MCsh5",
+          "MCsh6",
+          "MCsh7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 10,
+    "rainBow": [
+      {
+        "id": "相对点",
+        "videoList": [
+          "MCxdd1",
+          "MCxdd2",
+          "MCxdd3",
+          "MCxdd4",
+          "MCxdd5"
+        ]
+      },
+      {
+        "id": "火",
+        "videoList": [
+          "MChuo1",
+          "MChuo2",
+          "MChuo3",
+          "MChuo4",
+          "MChuo5",
+          "MChuo6",
+          "MChuo7"
+        ]
+      },
+      {
+        "id": "米",
+        "videoList": [
+          "MCmi1",
+          "MCmi2",
+          "MCmi3",
+          "MCmi4",
+          "MCmi5",
+          "MCmi6",
+          "MCmi7",
+          "MCmi8"
+        ]
+      },
+      {
+        "id": "羊",
+        "videoList": [
+          "MCyang1",
+          "MCyang2",
+          "MCyang3",
+          "MCyang4",
+          "MCyang5",
+          "MCyang6",
+          "MCyang7",
+          "MCyang8"
+        ]
+      },
+      {
+        "id": "着",
+        "videoList": [
+          "MCzhe1",
+          "MCzhe2",
+          "MCzhe3",
+          "MCzhe4",
+          "MCzhe5",
+          "MCzhe6",
+          "MCzhe7",
+          "MCzhe8"
+        ]
+      },
+      {
+        "id": "立",
+        "videoList": [
+          "MCli1",
+          "MCli2",
+          "MCli3",
+          "MCli4",
+          "MCli5",
+          "MCli6",
+          "MCli7"
+        ]
+      },
+      {
+        "id": "采",
+        "videoList": [
+          "MCcai1",
+          "MCcai2",
+          "MCcai3",
+          "MCcai4",
+          "MCcai5",
+          "MCcai6",
+          "MCcai7",
+          "MCcai8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "r",
+		"mcIndex":2,
+		"hitPointCount":6,
+        "videoList": [
+          "MCr1",
+          "MCr2",
+          "",
+          "MCr3",
+          "MCr4",
+          "MCr5",
+          "MCr6",
+          "MCr7"
+        ]
+      },
+      {
+        "id": "z",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCz1",
+          "MCz2",
+          "",
+          "MCz3",
+          "MCz4",
+          "MCz5",
+          "MCz6",
+          "MCz7"
+        ]
+      },
+      {
+        "id": "c",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCc1",
+          "MCc2",
+          "",
+          "MCc3",
+          "MCc4",
+          "MCc5",
+          "MCc6",
+          "MCc7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 11,
+    "rainBow": [
+      {
+        "id": "相背点",
+        "videoList": [
+          "MCxbd1",
+          "MCxbd2",
+          "MCxbd3",
+          "MCxbd4",
+          "MCxbd5",
+          "MCxbd6"
+        ]
+      },
+      {
+        "id": "兴",
+        "videoList": [
+          "MCxin1",
+          "MCxin2",
+          "MCxin3",
+          "MCxin4",
+          "MCxin5",
+          "MCxin6",
+          "MCxin7",
+          "MCxin8"
+        ]
+      },
+      {
+        "id": "六",
+        "videoList": [
+          "MCliu1",
+          "MCliu2",
+          "MCliu3",
+          "MCliu4",
+          "MCliu5",
+          "MCliu6",
+          "MCliu7"
+        ]
+      },
+      {
+        "id": "只",
+        "videoList": [
+          "MCzhi1",
+          "MCzhi2",
+          "MCzhi3",
+          "MCzhi4",
+          "MCzhi5",
+          "MCzhi6",
+          "MCzhi7"
+        ]
+      },
+      {
+        "id": "小",
+        "videoList": [
+          "MCxiao1",
+          "MCxiao2",
+          "MCxiao3",
+          "MCxiao4",
+          "MCxiao5",
+          "MCxiao6",
+          "MCxiao7"
+        ]
+      },
+      {
+        "id": "尔",
+        "videoList": [
+          "MCer1",
+          "MCer2",
+          "MCer3",
+          "MCer4",
+          "MCer5",
+          "MCer6",
+          "MCer7",
+          "MCer8"
+        ]
+      },
+      {
+        "id": "点",
+        "videoList": [
+          "MCdian1",
+          "MCdian2",
+          "MCdian3",
+          "MCdian4",
+          "MCdian5",
+          "MCdian6",
+          "MCdian7",
+          "MCdian8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "s",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCs1",
+          "MCs2",
+          "",
+          "MCs3",
+          "MCs4",
+          "MCs5",
+          "MCs6",
+          "MCs7"
+        ]
+      },
+      {
+        "id": "y",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MCy1",
+          "MCy2",
+          "",
+          "MCy3",
+          "MCy4",
+          "MCy5",
+          "MCy6",
+          "MCy7"
+        ]
+      },
+      {
+        "id": "w",
+		"mcIndex":2,
+		"hitPointCount":10,
+        "videoList": [
+          "MCw1",
+          "MCw2",
+          "",
+          "MCw3",
+          "MCw4",
+          "MCw5",
+          "MCw6",
+          "MCw7"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 12,
+    "rainBow": [
+      {
+        "id": "提",
+        "videoList": [
+          "MCti1",
+          "MCti2",
+          "MCti3",
+          "MCti4",
+          "MCti5"
+        ]
+      },
+      {
+        "id": "习",
+        "videoList": [
+          "MCxi1",
+          "MCxi2",
+          "MCxi3",
+          "MCxi4",
+          "MCxi5",
+          "MCxi6",
+          "MCxi7",
+          "MCxi8"
+        ]
+      },
+      {
+        "id": "虫",
+        "videoList": [
+          "MCcong1",
+          "MCcong2",
+          "MCcong3",
+          "MCcong4",
+          "MCcong5",
+          "MCcong6",
+          "MCcong7"
+        ]
+      },
+      {
+        "id": "北",
+        "videoList": [
+          "MCbei1",
+          "MCbei2",
+          "MCbei3",
+          "MCbei4",
+          "MCbei5",
+          "MCbei6",
+          "MCbei7",
+          "MCbei8"
+        ]
+      },
+      {
+        "id": "打",
+        "videoList": [
+          "MCda1",
+          "MCda2",
+          "MCda3",
+          "MCda4",
+          "MCda5",
+          "MCda6",
+          "MCda7",
+          "MCda8"
+        ]
+      },
+      {
+        "id": "江",
+        "videoList": [
+          "MCjiang1",
+          "MCjiang2",
+          "MCjiang3",
+          "MCjiang4",
+          "MCjiang5",
+          "MCjiang6",
+          "MCjiang7",
+          "MCjiang8"
+        ]
+      },
+      {
+        "id": "次",
+        "videoList": [
+          "MCci1",
+          "MCci2",
+          "MCci3",
+          "MCci4",
+          "MCci5",
+          "MCci6",
+          "MCci7",
+          "MCci8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "0",
+		"mcIndex":3,
+		"hitPointCount":8,
+        "videoList": [
+          "MC01",
+          "MC02",
+          "MC03",
+          "",
+          "MC04",
+          "MC05",
+          "MC06",
+          "MC07"
+        ]
+      },
+      {
+        "id": "1",
+		"mcIndex":3,
+		"hitPointCount":4,
+        "videoList": [
+          "MC11",
+          "MC12",
+          "MC13",
+          "",
+          "MC14",
+          "MC15",
+          "MC16",
+          "MC17"
+        ]
+      },
+      {
+        "id": "2",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MC21",
+          "MC22",
+          "",
+          "MC23",
+          "MC24",
+          "MC25",
+          "MC26"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 13,
+    "rainBow": [
+      {
+        "id": "竖提",
+        "videoList": [
+          "MCst1",
+          "MCst2",
+          "MCst3",
+          "MCst4",
+          "MCst5"
+        ]
+      },
+      {
+        "id": "长",
+        "videoList": [
+          "MCchang1",
+          "MCchang2",
+          "MCchang3",
+          "MCchang4",
+          "MCchang5",
+          "MCchang6",
+          "MCchang7",
+          "MCchang8"
+        ]
+      },
+      {
+        "id": "以",
+        "videoList": [
+          "MCyi1",
+          "MCyi2",
+          "MCyi3",
+          "MCyi4",
+          "MCyi5",
+          "MCyi6",
+          "MCyi7",
+          "MCyi8"
+        ]
+      },
+      {
+        "id": "比",
+        "videoList": [
+          "MCbi1",
+          "MCbi2",
+          "MCbi3",
+          "MCbi4",
+          "MCbi5",
+          "MCbi6",
+          "MCbi7",
+          "MCbi8"
+        ]
+      },
+      {
+        "id": "表",
+        "videoList": [
+          "MCbiao1",
+          "MCbiao2",
+          "MCbiao3",
+          "MCbiao4",
+          "MCbiao5",
+          "MCbiao6",
+          "MCbiao7",
+          "MCbiao8"
+        ]
+      },
+      {
+        "id": "衣",
+        "videoList": [
+          "MCy1",
+          "MCy2",
+          "MCy3",
+          "MCy4",
+          "MCy5",
+          "MCy6",
+          "MCy7",
+          "MCy8"
+        ]
+      },
+      {
+        "id": "瓜",
+        "videoList": [
+          "MCgua1",
+          "MCgua2",
+          "MCgua3",
+          "MCgua4",
+          "MCgua5",
+          "MCgua6",
+          "MCgua7",
+          "MCgua8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "3",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MC31",
+          "MC32",
+          "",
+          "MC33",
+          "MC34",
+          "MC35",
+          "MC36"
+        ]
+      },
+      {
+        "id": "4",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MC41",
+          "MC42",
+          "",
+          "MC43",
+          "MC44",
+          "MC45",
+          "MC46"
+        ]
+      },
+      {
+        "id": "5",
+		"mcIndex":2,
+		"hitPointCount":7,
+        "videoList": [
+          "MC51",
+          "MC52",
+          "",
+          "MC53",
+          "MC54",
+          "MC55",
+          "MC56"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 14,
+    "rainBow": [
+      {
+        "id": "横撇",
+        "videoList": [
+          "MChp1",
+          "MChp2",
+          "MChp3",
+          "MChp4",
+          "MChp5"
+        ]
+      },
+      {
+        "id": "夕",
+        "videoList": [
+          "MCxi1",
+          "MCxi2",
+          "MCxi3",
+          "MCxi4",
+          "MCxi5",
+          "MCxi6",
+          "MCxi7",
+          "MCxi8"
+        ]
+      },
+      {
+        "id": "久",
+        "videoList": [
+          "MCjiu1",
+          "MCjiu2",
+          "MCjiu3",
+          "MCjiu4",
+          "MCjiu5",
+          "MCjiu6",
+          "MCjiu7"
+        ]
+      },
+      {
+        "id": "又",
+        "videoList": [
+          "MCyou1",
+          "MCyou2",
+          "MCyou3",
+          "MCyou4",
+          "MCyou5",
+          "MCyou6",
+          "MCyou7"
+        ]
+      },
+      {
+        "id": "鱼",
+        "videoList": [
+          "MCyu1",
+          "MCyu2",
+          "MCyu3",
+          "MCyu4",
+          "MCyu5",
+          "MCyu6",
+          "MCyu7",
+          "MCyu8"
+        ]
+      },
+      {
+        "id": "外",
+        "videoList": [
+          "MCwai1",
+          "MCwai2",
+          "MCwai3",
+          "MCwai4",
+          "MCwai5",
+          "MCwai6",
+          "MCwai7"
+        ]
+      },
+      {
+        "id": "冬",
+        "videoList": [
+          "MCdong1",
+          "MCdong2",
+          "MCdong3",
+          "MCdong4",
+          "MCdong5",
+          "MCdong6",
+          "MCdong7",
+          "MCdong8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "6",
+		"mcIndex":2,
+		"hitPointCount":6,
+        "videoList": [
+          "MC61",
+          "MC62",
+          "",
+          "MC63",
+          "MC64",
+          "MC65",
+          "MC66"
+        ]
+      },
+      {
+        "id": "7",
+		"mcIndex":2,
+		"hitPointCount":6,
+        "videoList": [
+          "MC71",
+          "MC72",
+          "",
+          "MC73",
+          "MC74",
+          "MC75",
+          "MC76"
+        ]
+      },
+      {
+        "id": "8",
+		"mcIndex":2,
+		"hitPointCount":10,
+        "videoList": [
+          "MC81",
+          "MC82",
+          "",
+          "MC83",
+          "MC84",
+          "MC85",
+          "MC86"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+  },
+  {
+    "lessonId": 15,
+    "rainBow": [
+      {
+        "id": "横折折撇",
+        "videoList": [
+          "MChzzp1",
+          "MChzzp2",
+          "MChzzp3",
+          "MChzzp4",
+          "MChzzp5",
+          "MChzzp6"
+        ]
+      },
+      {
+        "id": "及",
+        "videoList": [
+          "MCji1",
+          "MCji2",
+          "MCji3",
+          "MCji4",
+          "MCji5",
+          "MCji6",
+          "MCji7"
+        ]
+      },
+      {
+        "id": "延",
+        "videoList": [
+          "MCyan1",
+          "MCyan2",
+          "MCyan3",
+          "MCyan4",
+          "MCyan5",
+          "MCyan6",
+          "MCyan7",
+          "MCyan8"
+        ]
+      },
+      {
+        "id": "廷",
+        "videoList": [
+          "MCting1",
+          "MCting2",
+          "MCting3",
+          "MCting4",
+          "MCting5",
+          "MCting6",
+          "MCting7",
+          "MCting8"
+        ]
+      },
+      {
+        "id": "还",
+        "videoList": [
+          "MChai1",
+          "MChai2",
+          "MChai3",
+          "MChai4",
+          "MChai5",
+          "MChai6",
+          "MChai7",
+          "MChai8"
+        ]
+      },
+      {
+        "id": "进",
+        "videoList": [
+          "MCjin1",
+          "MCjin2",
+          "MCjin3",
+          "MCjin4",
+          "MCjin5",
+          "MCjin6",
+          "MCjin7",
+          "MCjin8"
+        ]
+      },
+      {
+        "id": "建",
+        "videoList": [
+          "MCjian1",
+          "MCjian2",
+          "MCjian3",
+          "MCjian4",
+          "MCjian5",
+          "MCjian6",
+          "MCjian7",
+          "MCjian8"
+        ]
+      }
+    ],
+    "happyIsland": [
+      {
+        "id": "9",
+		"mcIndex":2,
+		"hitPointCount":6,
+        "videoList": [
+          "MC91",
+          "MC92",
+          "",
+          "MC93",
+          "MC94",
+          "MC95",
+          "MC96"
+        ]
+      },
+      {
+        "id": "10",
+		"mcIndex":2,
+		"hitPointCount":9,
+        "videoList": [
+          "MC101",
+          "MC102",
+          "",
+          "MC103",
+          "MC104",
+          "MC105",
+          "MC106"
+        ]
+      },
+      {
+        "id": "100",
+		"mcIndex":2,
+		"hitPointCount":20,
+        "videoList": [
+          "MC1001",
+          "MC1002",
+          "",
+          "MC1003",
+          "MC1004",
+          "MC1005",
+          "MC1006"
+        ]
+      }
+    ],
+	"worldVideo":"MCworld",
+	"castleVideo":"MCCastle",
+	"expandVideo":"MCgobi",
+	"classexerciseVideo":"MCexercise"
+    }
+  ]
+}
